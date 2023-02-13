@@ -4,3 +4,4 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 API/appsettings.json
+node_modules
