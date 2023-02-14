@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\regin_ml7o3se\\Desktop\\chips\\API\\API.csproj": {}
+    "C:\\Users\\regin_ml7o3se\\Desktop\\chips\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\regin_ml7o3se\\Desktop\\chips\\API\\API.csproj": {
+    "C:\\Users\\regin_ml7o3se\\Desktop\\chips\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\regin_ml7o3se\\Desktop\\chips\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\regin_ml7o3se\\Desktop\\chips\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\regin_ml7o3se\\Desktop\\chips\\API\\API.csproj",
+        "projectPath": "C:\\Users\\regin_ml7o3se\\Desktop\\chips\\api\\API.csproj",
         "packagesPath": "C:\\Users\\regin_ml7o3se\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\regin_ml7o3se\\Desktop\\chips\\API\\obj\\",
+        "outputPath": "C:\\Users\\regin_ml7o3se\\Desktop\\chips\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\regin_ml7o3se\\AppData\\Roaming\\NuGet\\NuGet.Config",
